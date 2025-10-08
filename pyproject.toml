@@ -19,6 +19,13 @@ dependencies = [
     "pip",
     "python-dotenv",
     "ruff",
+    "ipykernel>=6.29.5",
+    "jupyterlab>=4.4.3",
+    "matplotlib>=3.10.3",
+    "numpy>=2.3.1",
+    "pandas>=2.3.0",
+    "scikit-learn>=1.7.0",
+    "seaborn>=0.13.2",
 ]
 requires-python = "~=3.12.0"
 
