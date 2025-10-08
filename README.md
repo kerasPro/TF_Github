@@ -107,7 +107,7 @@ Ideal para tareas de regresión lineal educativa, explicaciones de modelos o pru
 
 ## ✍️ Autor
 Creado por [Ronaldo]  
-Última actualización: 22 de Junio 2025
+Última actualización: 7 de Octubre del 2025
 
 # 5. Resultados
 
@@ -122,7 +122,7 @@ Estos resultados indican que el modelo explica aproximadamente el 84% de la vari
 
 Asimismo, se visualiza un rendimiento bueno al visualizar las predicciones con lo real siento solo una regresión lineal.
 
-![alt text](image.png)
+![alt text](reports/figures/image.png)
 
 
 # 6. Conclusiones
